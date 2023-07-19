@@ -1,5 +1,5 @@
-# Road Name List for CNL
-
+# Road Name List (CNL)
+https://steamcommunity.com/sharedfiles/filedetails/?id=3006624900
 
 Custom Name Listsを使って、ランダムで命名される道路の通り名を日本風へ変更します。
 
