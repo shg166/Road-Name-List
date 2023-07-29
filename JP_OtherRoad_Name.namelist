@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NameList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="JP OtherRoad Namelist">
+	<strings>
+		<!-- Dirt Road Name Patterns -->
+		<LocalizedString identifier="ROAD_NAME_PATTERN">
+</LocalizedString>
+
+		<!-- Street Name Patterns -->
+		<LocalizedString identifier="STREET_NAME_PATTERN">
+</LocalizedString>
+
+		<!-- Bridge Name Patterns -->
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">{0} 橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">{0} 橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">{0} 橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">{0} 陸橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">{0} 陸橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">{0} 陸橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">{0} 高架橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">{0} オーバーパス</LocalizedString>
+
+		<!-- Bridge Unique Name -->
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">瀬戸大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">明石海峡大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">伊良部大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">東京ゲートブリッジ</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">倉敷みなと大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">古宇利大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">角島大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">長流川橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">吉野川サンライズ大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">来間大橋</LocalizedString>
+
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">大鳴門橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">上江橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">新天竜川橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">甑大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">新富士川橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">幸魂大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">石狩河口橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">湾岸揖斐川橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">白鳥大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">因島大橋</LocalizedString>
+
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">押切橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">清砂大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">阿波しらさぎ大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">鷹島肥前大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">東海大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">銚子大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">安芸灘大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">名港中央大橋 </LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">熊谷大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">利根かもめ大橋</LocalizedString>
+
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">吉野川大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">伊勢大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">阿波麻植大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">長岡大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">吉野川橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">関門橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">藁科川橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">内牧高架橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">秋ヶ瀬橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">揖斐長良大橋</LocalizedString>
+
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">片品川橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">大芦橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">日本橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">レインボーブリッジ</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">かつしかハープ橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">千住大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">鶴見つばさ橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">横浜ベイブリッジ</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">城ヶ島大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">河口湖大橋</LocalizedString>
+
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">浜名湖大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">セントレア大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">神戸大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">勝鬨橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">清洲橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">蔵前橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">秋ヶ瀬橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">幸魂大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">羽根倉橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">上江橋</LocalizedString>
+
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">銚子大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">舞浜大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">幣舞橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">旭橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">豊平橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">若草大橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">宇治橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">淀屋橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">成田橋</LocalizedString>
+		<LocalizedString identifier="BRIDGE_NAME_PATTERN">戸田橋</LocalizedString>
+
+		<!-- Tunnel Name Patterns -->
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">{0} トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">{0} トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">{0} トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">{0} 地下道</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">{0} 地下道</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">{0} 地下道</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">{0} 隧道</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">{0} アンダーパス</LocalizedString>
+
+		<!-- Tunnel Unique Name -->
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">天城トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">関越トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">青梅トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">山手トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">飛驒トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">小仏トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">新笹子隧道</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">笹子トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">小鳥トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">権兵衛トンネル</LocalizedString>
+
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">タラガトンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">猪臥山トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">大和トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">関門トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">日本坂トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">新日本坂トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">樽峠トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">恵那山トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">肥後トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">加久藤トンネル</LocalizedString>
+
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">雁坂トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">新神戸トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">天王山トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">鈴鹿トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">敦賀トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">子不知トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">八風山トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">関電トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">寒風山トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">三頭トンネル</LocalizedString>
+
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">笹ヶ峰トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">阪奈トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">箕面トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">紀見トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">新天辻トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">伯母峰トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">川合トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">水越トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">矢筈トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">新仙人トンネル</LocalizedString>
+
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">みちのくトンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">坂梨トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">早坂トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">福島トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">笹谷トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">仙秋鬼首トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">大峠トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">境目トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">新境目トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">大坂トンネル</LocalizedString>
+
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">地芳トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">倉羅トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">オランダ坂トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">六十里越トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">甲子トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">大阪港咲洲トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">信夫山トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">東栗子トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">西栗子トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">栗子トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">土湯トンネル</LocalizedString>
+
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">衣浦トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">あつみトンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">新潟みなとトンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">川崎港海底トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">浮島トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">北大雪トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">新佐呂間トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">神戸長田トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">石榑トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">野塚トンネル</LocalizedString>
+		<LocalizedString identifier="TUNNEL_NAME_PATTERN">えりも黄金トンネル</LocalizedString>
+
+		<!-- Highway Unique Name Patterns -->
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東名高速道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">名神高速道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">新東名高速道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">新名神高速道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">伊勢湾岸自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">山陽自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">中国自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">関門自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">九州自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">南九州自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東北自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東北縦貫自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">北海道縦貫自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">北海道横断自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">常磐自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">仙台東部道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">三陸沿岸道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">仙台北部道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">日本海東北自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">秋田自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">北陸自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">京都縦貫自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">山陰自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東九州自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">宮崎自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">徳島自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">高松自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">松山自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東北中央自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東北自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">京葉道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">館山自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">富津館山道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">横浜新道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">横浜横須賀道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">関越自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">上信越自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">中央自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">長野自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東名阪自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">伊勢自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">京奈和自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">名阪国道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">西名阪自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">近畿自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">阪和自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">舞鶴若狭自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">神戸淡路鳴門自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">中国横断自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">播磨自動車道</LocalizedString>
+
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">中国自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">鳥取自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">瀬戸中央自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">広島呉道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">徳島自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">高知自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">大分自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">長崎自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">ながさき出島道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">西九州自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">旭川紋別自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東海北陸自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">能越自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">近畿自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">三陸沿岸道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">釜石自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">仙台南部道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">山形自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">磐越自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">北関東自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東水戸道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">常陸那珂有料道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">尾道自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">松江自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">四国横断自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">沖縄自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">那覇空港自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">函館江差自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">帯広広尾自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">深川留萌自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">日高自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">津軽自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">新空港自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">圏央道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">中部縦貫自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">伊豆縦貫自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">三遠南信自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東富士五湖道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">関西空港自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">北近畿豊岡自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">岡山自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">米子自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">尾道福山自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">瀬戸内しまなみ海道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">今治小松自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">九州中央自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東九州自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">あぶくま高原道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">日光宇都宮道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">千葉東金道路</LocalizedString>
+
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">第三京浜道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">横浜新道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">新湘南バイパス</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">西湘バイパス</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">小田原厚木道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">のと里山海道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">知多半島道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">京滋バイパス</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">第二京阪道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">堺泉北有料道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">南阪奈有料道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">南阪奈道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">大和高田バイパス</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">第二阪奈有料道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">第二神明道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">播但連絡道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">長崎バイパス</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">日出バイパス</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">大分空港道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">一ツ葉有料道路</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東京外環自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東京湾アクアライン</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">名古屋高速</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">東海環状自動車道</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">首都高速</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">阪神高速</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">福岡高速</LocalizedString>
+		<LocalizedString identifier="HIGHWAY_NAME_PATTERN">北九州高速</LocalizedString>
+
+	</strings>
+</NameList>

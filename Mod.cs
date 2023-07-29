@@ -11,7 +11,7 @@ namespace JP_RoadNameList
 
 		public string Name
 		{
-			get { return "JP Road Name List (CNL) v1.0"; }
+			get { return "JP Road Name List (CNL) v1.1"; }
 		}
 
 		public string Description
